@@ -8,7 +8,7 @@ const App: FC<AppProps> = ({
 }) => {
   return (
     <div>
-      <DigitalClock />
+  
     </div>
   )
 }

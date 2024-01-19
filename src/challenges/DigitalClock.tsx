@@ -4,24 +4,15 @@ import { useEffect, useState } from "react";
 
 
 
-
-
-
 const DigitalClock = ({}) => {
-
+  
     const [currentDate, setCurrentDate] = useState(new Date())
-
     useEffect(() => {
-      
         setInterval((() => {
-            
             setCurrentDate(new Date())
-
         }), 1000)
-
     }, [])
     
-
   return (
     <div className="clock">
       <div>
