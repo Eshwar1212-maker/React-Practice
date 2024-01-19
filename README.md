@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React Code Challenges
 
 This is a repo made for me to further enhance my React skills with Typescript. The challenges are separate components under the /challenges folder. 
 These challenges can help your overall understanding of Javascript fundamentals, React state management, effects, different hooks, data fetching, 
@@ -8,5 +8,8 @@ using Typescript, and more.
 
 Here are the challenges so far and what they teach:
 
+- 
+- 
+- 
 - 
 
