@@ -1,5 +1,5 @@
 import { FC } from 'react'
-import DigitalClock from './challenges/DigitalClock'
+
 interface AppProps {
   
 }
