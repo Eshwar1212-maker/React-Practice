@@ -54,5 +54,7 @@ Now, after you did that, every half a second, decrement the first item's number 
 I know I might not of explained this very well, but thankfully Cody from the Youtube channel "Web Dev Cody" came up with this challenge and explains it perfectly here: https://www.youtube.com/watch?v=B9fmr1TpKHE&list=PLKQCsJKZMeQMGm0IQpZqcq1gg2U0mkm9s&index=6
 
 Concepts this challenge covers: 
-- Basic understanding of Javascript's Date function
-- Understanding of how to dynamically use the setInterval function to manipulate state
+- Understanding of React components lifecycle and effects.
+- Dynamic Javascript algorithms to update UI, along with different Javascript array methods.
+- Dynamically updating UI with intervals.
+
