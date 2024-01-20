@@ -42,4 +42,17 @@ Concepts this challenge covers:
 - This is more of a CSS layout challenge that is very testy of your front end skills.
 
 
+### Shopping Cart
+Problem description: 
 
+This is probably my favorite react coding challenge ever! It encompasses so many different skills testing your front end knowledge.
+
+The challenge is to build 5 checkout lines(like a grocery store), and have a form where a user can submit a button. When this button gets submitted, you should find the cart with the lowest amount of items and add that item to that line. Each shopping line can have many items, so when the form gets submitted, you should calculate the total amount of each items in each line to figure out which shopping line has the least. 
+
+Now, after you did that, every half a second, decrement the first item's number by one for each shopping line, than once that item is 0, remove it from its shopping line. 
+
+I know I might not of explained this very well, but thankfully Cody from the Youtube channel "Web Dev Cody" came up with this challenge and explains it perfectly here: https://www.youtube.com/watch?v=B9fmr1TpKHE&list=PLKQCsJKZMeQMGm0IQpZqcq1gg2U0mkm9s&index=6
+
+Concepts this challenge covers: 
+- Basic understanding of Javascript's Date function
+- Understanding of how to dynamically use the setInterval function to manipulate state
