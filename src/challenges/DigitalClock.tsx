@@ -1,5 +1,14 @@
 import { useEffect, useState } from "react";
 
+/*
+This components CSS: 
+.clock{
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    font-size: 40px;
+}
+*/
 
 const DigitalClock = ({}) => {
 
@@ -26,3 +35,4 @@ const DigitalClock = ({}) => {
 };
 
 export default DigitalClock;
+
