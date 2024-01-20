@@ -36,6 +36,8 @@ Stretches horizontally across the whole page.
 100px tall.
 The footer should be at the bottom of the page even if there is not enough content to fill up the viewport height.
 
+To see how it should look: https://www.greatfrontend.com/questions/user-interface/holy-grail/react
+
 Concepts this challenge covers: 
 - This is more of a CSS layout challenge that is very testy of your front end skills.
 
